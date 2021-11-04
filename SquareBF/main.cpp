@@ -1,5 +1,6 @@
 #include <iostream>
 #include <chrono>
+#include <conio.h>
 
 using namespace std;
 
@@ -36,6 +37,7 @@ int main()
 
     cout << "\nThe square number from " << n << " is " << answer << endl;
     cout << "And it takes " << duration2 << " miliseconds (with Brute Force approach)" << endl;
+    getch();
 
     return 0;
 }
