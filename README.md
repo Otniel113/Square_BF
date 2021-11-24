@@ -1,7 +1,7 @@
 # Square_BF
 When you can just calculate it, but instead use "dumb" Brute Force approach
 
-## How top Open
+## How to Open
 1. The main program is in main.cpp
 2. If you have codeblocks, you can open SquareBF.cbp
 3. If you don't have any IDE, you can run .exe file in /bin/Debug
